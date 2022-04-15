@@ -11,7 +11,9 @@ public class Ex17 {
 		System.out.print("반지름: ");
 		double radius = sc.nextDouble();
 		
-		System.out.println("구의 부피는: "+(radius*radius*radius*3.14*4/3)+"입니다.");
+		double r3 = radius*radius*radius;
+		
+		System.out.println("구의 부피는: "+(4.0/3.0*3.14*r3)+"입니다.");
 		
 		sc.close();
 	}

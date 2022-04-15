@@ -10,8 +10,9 @@ public class Ex12 {
 		
 		System.out.print("반지름을 입력하세요: ");
 		float radius = sc.nextFloat();
+		float radius2 = radius*radius;
 		
-		System.out.println("원의 넓이는 "+radius*radius*3.14);
+		System.out.println("원의 넓이는 "+radius2*3.14);
 		
 		sc.close();
 	}

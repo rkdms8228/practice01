@@ -10,8 +10,9 @@ public class Ex13 {
 		
 		System.out.print("환전할 원화를 입력하세요: ");
 		double money = sc.nextDouble();
+		double dollar = money/1230.95;
 		
-		System.out.println("받으실 달러는 "+money/1230.95);
+		System.out.println("받으실 달러는 "+dollar);
 		
 		sc.close();
 	}

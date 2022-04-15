@@ -12,14 +12,18 @@ public class Ex16 {
 		double cost = sc.nextDouble();
 		
 		System.out.print("받은돈: ");
-		double extra = sc.nextDouble();
+		double money = sc.nextDouble();
+		
+		double tax = cost/10;
+		double extra = money-cost;
+		
 		
 		System.out.println("==========================");
 		
-		System.out.println("받은돈: "+extra);
 		System.out.println("상품가격: "+cost);
-		System.out.println("부가세: "+cost/10);
-		System.out.println("잔액: "+(extra-cost));
+		System.out.println("받은돈: "+money);		
+		System.out.println("부가세: "+tax);
+		System.out.println("잔액: "+extra);
 		
 		sc.close();
 	}

@@ -9,7 +9,7 @@ public class Ex01 {
 		(예약어 사용 불가)
 		
 		int #_of_workers; --> int _of_workers;
-		(예약어 사용불가/$와_외 특수문자 사용 불가)
+		($와_외 특수문자 사용 불가)
 		
 		int countOfLetterInString; --> int countOfLetterInS;
 		(예약어 사용 불가)
@@ -21,7 +21,7 @@ public class Ex01 {
 		($와_외 특수문자 사용 불가)
 		
 		int _person;
-		(잘 모르겠음)
+		(오류 없음)
 		*/
 	}
 

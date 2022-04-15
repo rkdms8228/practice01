@@ -14,8 +14,11 @@ public class Ex14 {
 		System.out.print("세로를 입력하세요: ");
 		double squareW = sc.nextDouble();
 		
-		System.out.println("사각형의 넓이는 "+squareH*squareW);
-		System.out.println("사각형의 둘레는 "+(squareH+squareW)*2);
+		double area = squareH*squareW;
+		double perimeter = (squareH+squareW)*2;
+		
+		System.out.println("사각형의 넓이는 "+area);
+		System.out.println("사각형의 둘레는 "+perimeter);
 		
 		sc.close();
 	}

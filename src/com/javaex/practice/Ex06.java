@@ -9,6 +9,7 @@ public class Ex06 {
 		
 		System.out.println(i); //11
 		System.out.println(n); //0
+		
 	}
 
 

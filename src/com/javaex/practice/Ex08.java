@@ -9,6 +9,7 @@ public class Ex08 {
 		char grage = 'A';
 		int salary= 2000000;
 		int n = 1000;
+		
 	}
 
 

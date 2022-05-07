@@ -26,6 +26,7 @@ public class Ex16 {
 		System.out.println("잔액: "+extra);
 		
 		sc.close();
+		
 	}
 
 

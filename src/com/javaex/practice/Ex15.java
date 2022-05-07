@@ -15,6 +15,7 @@ public class Ex15 {
 		System.out.println(mile+"마일은 "+km+"킬로미터 입니다.");
 		
 		sc.close();
+		
 	}
 
 

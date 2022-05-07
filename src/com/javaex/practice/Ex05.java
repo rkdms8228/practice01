@@ -9,6 +9,7 @@ public class Ex05 {
 		double distance = speed*time;
 		
 		System.out.println(distance);
+		
 	}
 
 

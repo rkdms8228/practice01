@@ -15,6 +15,7 @@ public class Ex18 {
 		System.out.println("화씨 "+f+"의 섭씨 온도는 "+5.0/9.0*c+"입니다.");
 		
 		sc.close();
+		
 	}
 
 

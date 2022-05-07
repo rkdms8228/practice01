@@ -29,6 +29,7 @@ public class Ex20 {
 		System.out.println("동전의 총합은 "+total+"원 입니다.");
 
 		sc.close();
+		
 	}
 
 

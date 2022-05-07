@@ -23,6 +23,7 @@ public class Ex01 {
 		int _person;
 		(오류 없음)
 		*/
+		
 	}
 
 }

@@ -8,6 +8,7 @@ public class Ex09 {
 		double temp = f-32.0;
 		
 		System.out.println(5.0/9.0*temp);
+		
 	}
 
 

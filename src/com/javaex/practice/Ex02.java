@@ -5,6 +5,7 @@ public class Ex02 {
 		
 		System.out.println(12/5-3); //-1
 		System.out.println(5+19%3); //6
+		
 	}
 
 }

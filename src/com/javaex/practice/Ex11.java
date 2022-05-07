@@ -15,6 +15,7 @@ public class Ex11 {
 		System.out.println("10년 동안 최대 저축액은 "+salary12+"만원 입니다.");
 		
 		sc.close();
+		
 	}
 
 

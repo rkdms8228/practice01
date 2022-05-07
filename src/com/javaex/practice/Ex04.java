@@ -9,6 +9,7 @@ public class Ex04 {
 		int sum = x+y;
 		
 		System.out.println("합은 "+sum);
+		
 	}
 
 }

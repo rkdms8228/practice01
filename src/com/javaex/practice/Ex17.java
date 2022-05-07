@@ -16,6 +16,7 @@ public class Ex17 {
 		System.out.println("구의 부피는: "+(4.0/3.0*3.14*r3)+"입니다.");
 		
 		sc.close();
+		
 	}
 
 

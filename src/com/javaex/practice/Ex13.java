@@ -15,6 +15,7 @@ public class Ex13 {
 		System.out.println("받으실 달러는 "+dollar);
 		
 		sc.close();
+		
 	}
 
 

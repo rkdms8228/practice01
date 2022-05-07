@@ -21,6 +21,7 @@ public class Ex14 {
 		System.out.println("사각형의 둘레는 "+perimeter);
 		
 		sc.close();
+		
 	}
 
 
